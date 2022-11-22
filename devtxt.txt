@@ -1,2 +1,6 @@
 Git is a free and open source distributed version control system.
+<<<<<<< HEAD
 It is easy to learn.
+=======
+It is fast to access.
+>>>>>>> refs/remotes/origin/main
